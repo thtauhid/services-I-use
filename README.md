@@ -3,4 +3,7 @@ List of Services I Use
 
 ## Free
 
-1. Github Student Pack
+Github Student Pack
+Visual Studio Code
+
+## Paid
