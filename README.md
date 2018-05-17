@@ -1,4 +1,6 @@
 # Services-I-Use
 List of Services I Use
 
-##Github Free pack
+## Free
+
+1. Github Student Pack
